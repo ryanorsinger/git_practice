@@ -1,4 +1,4 @@
-# git_practice
+# Git Practice
 this is my repo for demonstrating practicing git
 
 ## Workflow
